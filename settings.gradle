@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "HnZip"
 include ':app'
+include ':mytools'
