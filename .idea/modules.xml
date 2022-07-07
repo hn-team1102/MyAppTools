@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyAppTools.iml" filepath="$PROJECT_DIR$/.idea/modules/MyAppTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HnZip.iml" filepath="$PROJECT_DIR$/.idea/modules/HnZip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HnZip.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HnZip.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HnZip.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HnZip.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HnZip.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HnZip.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HnZip.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HnZip.app.unitTest.iml" />
     </modules>
   </component>
 </project>
